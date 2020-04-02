@@ -1,0 +1,14 @@
+1.buat index.php
+  isi:
+	-isi default header dan menu di (index.php)
+	-default hader dan menu adl fix top pada tampilan
+	-isi dari menu adl :
+			- home (dan promo berisi menu bandeng dan deskripsi bahan masakannya detailproduk.php)
+			- produk 
+			- chart/keranjang belanja
+			- help
+	-home diisi slide detail produk
+	-produk diisi full produk dan fitur order
+	-detail produk berisi deskripsi bahan masakannya
+	-chart berisi produk bandeng yang ingin di beli dan pengiriman
+	-help diisi dengan proses di dalam web bandeng tsb
